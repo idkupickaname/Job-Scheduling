@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/drohan0717/Job-Scheduling.git
+   git clone https://github.com/idkupickaname/Job-Scheduling.git
    
 2. **Setup your master and slave nodes where master represents the node which initiates execution, follow this playlist for in detail understanding for setting up your distributed system.**
    [https://www.youtube.com/watch?v=-t4k6IwmtFI&t=75s]
